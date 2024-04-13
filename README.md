@@ -20,5 +20,7 @@ Power BI offers built-in time intelligence functions to perform calculations and
 <br>
 
 <p>Power BI provides a user-friendly interface to create interactive and visually appealing dashboards. Visualizations such as charts, graphs, and maps will be used to present the analysis results.</p>
+<br>
+<p>The dataset for the dashboard: https://docs.google.com/spreadsheets/d/1vPTqy_zT5TtPCWVgBfBFAbtwrSCAwfHd/edit?usp=drive_link&ouid=116362608815094273755&rtpof=true&sd=true </p>
 #DataAnalysis #Amazon #PowerBI #GitHub #DataVisualization
 ![Screenshot (146)]()
