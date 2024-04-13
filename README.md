@@ -15,10 +15,10 @@ Power BI offers built-in time intelligence functions to perform calculations and
 <br>
 <p>Key Performance Indicators (KPIs) will be defined in Power BI to track and visualize the primary metrics, such as Total Casualties and Total Accidents, and Total Casualties by Accident Severity for the current year.</p>
 <br>
-<br>
+
 <p>Power BI allows grouping of data based on specific attributes, such as Vehicle Type, Road Type, and Location, which will help in analyzing Casualties with respect to Vehicle Type, Casualties by Road Type, and Total Casualties and Total Accidents by Location.</p>
 <br>
-<br>
+
 <p>Power BI provides a user-friendly interface to create interactive and visually appealing dashboards. Visualizations such as charts, graphs, and maps will be used to present the analysis results.</p>
 #DataAnalysis #Amazon #PowerBI #GitHub #DataVisualization
 ![Screenshot (146)]()
